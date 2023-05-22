@@ -1,4 +1,4 @@
 # Structure-from-Motion
-New tests in python folder.
+New WIP in python folder.
 
 ![alt text](./python/camview.png)
